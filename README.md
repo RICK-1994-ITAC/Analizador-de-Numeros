@@ -9,7 +9,7 @@ arrays, estrutura de repetição,lógica etc.
 
 Em uma nova guia, abra o link para visualização: https://rick-1994-itac.github.io/Analizador-de-Numeros/
 
-| **Conhecimentos ultilizados** |
+| `CONHECIMENTOS ULTILIZADOS` |
 |---|
 |JavaScript Básico|
 |1. Arrays|
