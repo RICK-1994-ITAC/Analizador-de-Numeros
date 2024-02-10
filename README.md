@@ -18,3 +18,19 @@ Em uma nova guia, abra o link para visualização: https://rick-1994-itac.github
 |4. Manipulação do DOM|
 |Css Básico|
 |html Básico|
+
+***
+`Segue abaixo a imagem do funcionamento do programa em questão:`
+***
+![Captura de Tela (1)](https://github.com/RICK-1994-ITAC/Analizador-de-Numeros/assets/148507607/c2e165c7-e0ea-41fd-9af1-786b79c98df3)
+
+
+***
+`Nessa proxima imagem, vemos que o programa nao aceita números repetidos, uma janela de ALERT vai aparecer informando o erro.
+A mesma mensagem aparecerá, quando houver números abaixo de 0 e acima de 100 ou ainda se o campo estiver vazio.`
+***
+![Captura de Tela (2)](https://github.com/RICK-1994-ITAC/Analizador-de-Numeros/assets/148507607/52e1bc96-c992-4988-b519-1eae51779f95)
+
+***
+AGRADEÇO A TODOS PELA VISITA 😄
+
