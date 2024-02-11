@@ -7,7 +7,7 @@ não aceita números repetidos, nem numeros negativos, nem 0, nem aceita campo v
 foram ultilizados html,css e JavaScript.
 arrays, estrutura de repetição,lógica etc.
 
-Em uma nova guia, abra o link para visualização: https://rick-1994-itac.github.io/Analizador-de-Numeros/
+Em uma nova guia, abra o link para visualização: [Analizador de Números](https://rick-1994-itac.github.io/Analizador-de-Numeros/)
 
 | `CONHECIMENTOS ULTILIZADOS` |
 |---|
